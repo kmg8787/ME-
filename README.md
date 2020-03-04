@@ -1,4 +1,6 @@
-# 경력
+# 경력 
+
+[![HitCount](http://hits.dwyl.com/waterbobs/ME.svg)](http://hits.dwyl.com/waterbobs/ME)
 
 [잉글리쉬 무무](http://www.moumou.co.kr)
 
@@ -82,4 +84,5 @@
       <img width="200" src="https://user-images.githubusercontent.com/8046850/74748547-0a5de680-52ac-11ea-8d8b-e2877468de36.jpg">
   <img width="200" src="https://user-images.githubusercontent.com/8046850/74748544-092cb980-52ac-11ea-8d27-e581e4d1c0a3.png">
   <img width="200" src="https://user-images.githubusercontent.com/8046850/74748546-0a5de680-52ac-11ea-905a-78321b235e52.png">
-    <div>
+    <div> 
+
