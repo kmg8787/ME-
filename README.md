@@ -1,3 +1,9 @@
+# 링크
+
+blog : https://medium.com/affirmativedev</br></br>
+github : https://github.com/waterbobs
+
+
 # 경력 
 
 [![HitCount](http://hits.dwyl.com/waterbobs/ME.svg)](http://hits.dwyl.com/waterbobs/ME)
