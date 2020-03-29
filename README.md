@@ -17,17 +17,6 @@ github : https://github.com/waterbobs
 - 대리 : 2017.02 ~ 2018.11
 - 사원 : 2014.05 ~ 2017.01
 
-
-# 사용해본 기술들
-
-- 언어 : Kotlin(현재진행형), JAVA, C#, C++, C
-- 개발툴 : Android Studio, Eclipse, Intellj, Visual Studio, Unity
-- 라이브러리 
-  - 네이버 아이디 로그인, 원스토어 인앱결제, 밴드, Applovin, Vungle, Fabric, Kochava, GCM, FCM
-  -  Glide, Retrofit2, Joda Time, JBOX2D
-- 버전관리 : Git, SVN
-  
-
 # 회사 프로젝트
 
 - **잉글리쉬 무무**
