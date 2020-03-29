@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/waterbobs/ME.svg)](http://hits.dwyl.com/waterbobs/ME)
+
 # 링크
 
 blog : https://medium.com/affirmativedev</br></br>
@@ -5,8 +7,6 @@ github : https://github.com/waterbobs
 
 
 # 경력 
-
-[![HitCount](http://hits.dwyl.com/waterbobs/ME.svg)](http://hits.dwyl.com/waterbobs/ME)
 
 [잉글리쉬 무무](http://www.moumou.co.kr)
 
