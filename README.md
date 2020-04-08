@@ -84,7 +84,7 @@ github : https://github.com/waterbobs
 - [MAPQUE](https://github.com/waterbobs/MAPQUE)
   
   - 주소를 검색하고 검색한 주소를 저장하는 지도앱
-  - 기간 : 2019.03.20 ~ 2019.03.30
+  - 기간 : 2020.03.20 ~ 2020.03.30
   - 사용기술 : Android, Kotlin
   - 사용툴 : Android Studio, Git
   - 사용패턴 : MVVM
