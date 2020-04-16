@@ -95,4 +95,20 @@ github : https://github.com/waterbobs
   <img width=200 src="https://user-images.githubusercontent.com/8046850/77849698-88e16880-7208-11ea-997c-de966e990229.png">  
   <img width=200 src="https://user-images.githubusercontent.com/8046850/77849702-8aab2c00-7208-11ea-9565-5acd54a3ad6b.png">
 <div>
+  
+- [MAPQUE_GMAPVER](https://github.com/waterbobs/MAPQUE_GMAPVER)
+  
+  - 주소를 검색하고 검색한 주소를 저장하는 지도앱
+  - MAPQUE에서 맵만 구글맵으로 변경
+  - 기간 : 2020.04.10 ~ 2020.04.16
+  - 사용기술 : Android, Kotlin
+  - 사용툴 : Android Studio, Git
+  - 사용패턴 : MVVM
+  <br>
+    
+ <div>
+  <img width=200 height=400 src="https://user-images.githubusercontent.com/8046850/79453372-967a5900-8024-11ea-81ae-2ba80c3f8253.PNG"> 
+  <img width=200 height=400 src="https://user-images.githubusercontent.com/8046850/79453364-94b09580-8024-11ea-90ea-c5920d38eba3.PNG">  
+  <img width=200 height=400 src="https://user-images.githubusercontent.com/8046850/79453368-95e1c280-8024-11ea-9b40-5784efb6999e.PNG">
+<div>  
 
