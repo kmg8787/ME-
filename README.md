@@ -2,8 +2,8 @@
 
 # 링크
 
-blog : https://medium.com/affirmativedev</br></br>
-github : https://github.com/waterbobs
+blog : https://affirmative-dev.tistory.com/</br></br>
+github : https://github.com/spbobs
 
 
 # 경력 
