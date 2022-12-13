@@ -70,7 +70,6 @@ github : https://github.com/spbobs
 - [MEMOQUE](https://github.com/kmg8787/MEMOQUE)
   
   - 간단한 내용을 기록하고 지정한 날짜에 알람을 받을 수 있는 메모앱
-  - 기간 : 2019.02.19 ~ 2019.03.23
   - 사용기술 : Android, Java, Kotlin
   - 사용툴 : Android Studio, Git
   <br>
@@ -84,7 +83,6 @@ github : https://github.com/spbobs
 - [MAPQUE](https://github.com/waterbobs/MAPQUE)
   
   - 주소를 검색하고 검색한 주소를 저장하는 지도앱
-  - 기간 : 2020.03.20 ~ 2020.03.30
   - 사용기술 : Android, Kotlin
   - 사용툴 : Android Studio, Git
   - 사용패턴 : MVVM
@@ -100,7 +98,6 @@ github : https://github.com/spbobs
   
   - 주소를 검색하고 검색한 주소를 저장하는 지도앱
   - MAPQUE에서 맵만 구글맵으로 변경
-  - 기간 : 2020.04.10 ~ 2020.04.16
   - 사용기술 : Android, Kotlin
   - 사용툴 : Android Studio, Git
   - 사용패턴 : MVVM
@@ -116,7 +113,6 @@ github : https://github.com/spbobs
   
   - 주소를 검색하고 검색한 주소를 저장하는 지도앱
   - MAPQUE에서 맵만 네이버맵으로 변경
-  - 기간 : 2020.04.22 ~ 2020.04.29
   - 사용기술 : Android, Kotlin
   - 사용툴 : Android Studio, Git
   - 사용패턴 : MVVM
