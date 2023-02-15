@@ -3,8 +3,6 @@
 # 링크
 
 blog : https://affirmative-dev.tistory.com/</br></br>
-github : https://github.com/spbobs
-
 
 # 경력 
 
