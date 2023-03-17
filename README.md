@@ -122,3 +122,16 @@ blog : https://affirmative-dev.tistory.com/</br></br>
   <img width=200 height=400 src="https://user-images.githubusercontent.com/8046850/80590618-2f629880-8a57-11ea-9a24-573b4f2a09b6.PNG">
 <div>  
 
+- [Loaday](https://play.google.com/store/apps/details?id=com.bobs.loaday&hl=ko&gl=US)
+  
+  - 로스트아크 게임 일일 또는 주간 숙제를 까먹지 않도록 체크하는 앱
+  - 체크한 항목은 각 조건에 따라 일일은 다음날 6시, 주간은 다음주 수요일 6시에 초기화 되도록 함
+  - 사용기술 : Android, Kotlin
+  - 사용툴 : Android Studio
+  - 사용패턴 : MVVM
+  <br>
+    
+ <div>
+  <img width=400 height=200 src="https://user-images.githubusercontent.com/8046850/225795459-e8eab80d-93f1-490b-b521-5549d7197fe3.png"> 
+<div>
+
